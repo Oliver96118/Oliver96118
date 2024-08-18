@@ -5,11 +5,11 @@
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%16c3ffe3" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/tFDJD5eIJ9hT"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
+  <a href="https://join.skype.com/invite/tFDJD3GGR34"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/></a>
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
-I am a full-stack developer with a broad and versatile coding skill set. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality. My expertise lies in building MVPs, apps, enterprise software, scalable microservices, web crawlers, REST and Socket APIs, infrastructure modeling, AWS, and deployments. I am the go-to guy for any of your development needs.
+I am a full stack developer with AI expertise and have extensive experience with PHP and CI, frameworks like laravel, Simfony and WordPress and React, Next.js, Angular, Node.js. I also have extensive experience with Python and frameworks like Django, Flask, etc. I have experience developing AI chatbots and using multiple models like Lamda, Lamas, LLM.
 </p>
 <p align="center">
   <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
@@ -55,17 +55,22 @@ I am a full-stack developer with a broad and versatile coding skill set. I quick
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
-<img align="right" alt="GIF" src="images.jfif" width="400" />
- 
-### Frontend & Backend Development
+### 😉Frontend & Backend Development
 <br />
 
-### Chatbot Development
+### 🤖Chatbot Development
 <br />
 
-### Web Scrapping | Bot development
+### 🎇Web Scrapping | data visualization
 <br />
 
-### Web & Mobile Design
+### 🧬Web & Mobile Design
 
- 
+ ## Achievements
+
+<p align="center">
+<a href="https://github.com/HP319193?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=HP319193&theme=onestar&no-frame=true&column=3&row=2" width="50%" height="50%" alt="@HP319193's trophy stats"/></a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
