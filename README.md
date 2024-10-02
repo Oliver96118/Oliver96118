@@ -1,6 +1,3 @@
-<p align="center">
-  <img align="center" src="logo-img.jpg" style = "width: 100%;"/>
-</p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%16c3ffe3" alt="website"/></a>
