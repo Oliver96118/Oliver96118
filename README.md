@@ -11,14 +11,14 @@
     <a href="http://github.com/Oliver96118?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/topdev0215?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="http://github.com/topdev0215/topdev0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/topdev0215/topdev0215?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/Oliver96118/Oliver96118" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/topdev0215/topdev0215?label=Profile%20update&style=fflat-square"></a>
 </div>
 <br>
 
 ### ABOUT ME
 
 - **Looking to work on position:** Senior AI developer
-- **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
+- **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI, Coputer Vision), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Football, Swimming
 
 ### TECHNOLOGY
