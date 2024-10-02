@@ -6,13 +6,15 @@
 </h1>
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
-I am a full stack developer with AI expertise and have extensive experience with PHP and CI, frameworks like laravel, Simfony and WordPress and React, Next.js, Angular, Node.js. I also have extensive experience with Python and frameworks like Django, Flask, etc. I have experience developing AI chatbots and using multiple models like Lamda, Lamas, LLM.
+  Senior AI Engineer.
+- Experienced full-stack developer with a focus on
+creating user-friendly, well-structured frontends and
+stable, efficient backends.
+- Proficient in data ETL, as well as AI applications such as
+NLP, computer vision, and AI agents.
+- Skilled in developing various chatbots and trading bots.
+- Excels in ML and DL algorithms and modeling
 </p>
-<p align="center">
-  <a href="https://github.com/Kilros0817"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
-</p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
 <h1 align="center"></h1>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
