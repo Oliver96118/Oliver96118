@@ -1,9 +1,9 @@
 <h1 align="center">
     Hi, I'm Satoru Saito<br>
-     <b>Data Science | AI Engineer</b><br />
-    Welcome to my Github</b>
-
 </h1>
+<b>Data Science | AI Engineer</b><br />
+
+
 
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
