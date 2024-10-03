@@ -1,7 +1,7 @@
 <h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px"><br>
-    I'm <b>Senior Fullstack AI Engineer</b><br />
-    Welcome to <b>Satoru Saito's Github</b>
+    Hi, I'm Satoru Saito<br>
+     <b>Data Science | AI Engineer</b><br />
+    Welcome to my Github</b>
 
 </h1>
 
