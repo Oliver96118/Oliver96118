@@ -12,7 +12,7 @@
 </div>
 <br>
 
-### ABOUT ME
+### 💎 ABOUT ME
 
 - **Looking to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI, Coputer Vision), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
@@ -22,7 +22,7 @@
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/dQJ9vNfF) - @bitbanana717
 - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.a55bfc43620cc2f3?chat) - live:.cid.a55bfc43620cc2f3
 - [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
-### TECHNOLOGY
+### ⚔ TECHNOLOGY
 
 <table align="center">
   <tr>
@@ -196,7 +196,7 @@
 </p>
 -->
 
-### PROJECTS AND DEV STUFF
+### ✨ PROJECTS AND DEV STUFF
 <table width="100%">
   <tr>
     <td width="50%">
