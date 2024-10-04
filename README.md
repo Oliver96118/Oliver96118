@@ -1,10 +1,7 @@
 <h1 align="center">
     Hi, I'm Satoru Saito<br>
+    <b>Data Science | AI Engineer</b><br />
 </h1>
-<b>Data Science | AI Engineer</b><br />
-
-
-
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=Oliver96118&color=blue"></a>
@@ -189,16 +186,11 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
-
+<!--
 <p align="center">
 <a href="https://github.com/Oliver96118?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Oliver96118&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
-
-
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
+-->
 
 ### PROJECTS AND DEV STUFF
 <b>⚡ Github Stats</b>
@@ -217,17 +209,8 @@
   <br />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliver96118&theme=gotham&hide_border=true" />
 
-
-
-
-
 <br/>  
 
 <!-- My previous work -->
-
-
-<div align="center">
-    <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-</div>
 
 
