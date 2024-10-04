@@ -21,7 +21,7 @@
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/softlight1012) - @softlight1012
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/vhUyzmWz) - polygon118
 - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b
-- [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:rich.alpha444@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-mailto%3Arich.alpha444%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:rich.alpha444@gmail.com)
 ### ⚔ TECHNOLOGY
 
 <table align="center">
@@ -203,7 +203,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oliver96118&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
@@ -211,7 +211,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=algolia" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Oliver96118&theme=algolia" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -221,7 +221,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy/Solana-Lanchpad">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=BitFancy&repo=Solana-Lanchpad&theme=algolia&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver96118&repo=Solana-Lanchpad&theme=algolia&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
@@ -229,7 +229,7 @@
       <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/BitFancy">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitFancy&theme=algolia&layout=compact" alt="jaypavasiya" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver96118&theme=algolia&layout=compact" alt="jaypavasiya" />
         </a>
       </p>
     </td>
