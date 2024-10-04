@@ -17,7 +17,11 @@
 - **Looking to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI, Coputer Vision), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Football, Swimming
-
+## 🌐 Connect with me:  
+- [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/chain_crafts) - @chain_crafts
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/dQJ9vNfF) - @bitbanana717
+- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.a55bfc43620cc2f3?chat) - live:.cid.a55bfc43620cc2f3
+- [![Email](https://img.shields.io/badge/Email-mailto%3Abitbanana717%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:bitbanana717@gmail.com)
 ### TECHNOLOGY
 
 <table align="center">
@@ -193,23 +197,44 @@
 -->
 
 ### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
-    <br />
-    <p align="center">
-        <a href="https://github.com/Oliver96118?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oliver96118&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oliver96118&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/BitFancy">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
-    </p>
-
-</p>
-
-<b>☄️ Github Streaks</b>
-  
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliver96118&theme=gotham&hide_border=true" />
-
-<br/>  
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/BitFancy">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=algolia" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/BitFancy/Solana-Lanchpad">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=BitFancy&repo=Solana-Lanchpad&theme=algolia&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/BitFancy">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitFancy&theme=algolia&layout=compact" alt="jaypavasiya" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- My previous work -->
 
