@@ -202,7 +202,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/BitFancy">
+        <a href="https://github.com/Oliver96118">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oliver96118&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
@@ -210,7 +210,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/BitFancy">
+        <a href="https://github.com/Oliver96118">
           <img align="center" src="https://streak-stats.demolab.com?user=Oliver96118&theme=algolia" alt="Streak Stats" />
         </a>
       </p>
@@ -220,7 +220,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/BitFancy/Solana-Lanchpad">
+        <a href="https://github.com/Oliver96118/">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver96118&repo=Solana-Lanchpad&theme=algolia&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
@@ -228,7 +228,7 @@
     <td width="50%">
       <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/BitFancy">
+        <a href="https://github.com/Oliver96118">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver96118&theme=algolia&layout=compact" alt="jaypavasiya" />
         </a>
       </p>
