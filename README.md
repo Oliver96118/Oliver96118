@@ -220,7 +220,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Oliver96118/">
+        <a href="https://github.com/Oliver96118/Chatbot-builder">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver96118&repo=Solana-Lanchpad&theme=algolia&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
