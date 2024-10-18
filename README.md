@@ -228,7 +228,7 @@
     <td width="50%">
       <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
-        <a href="https://github.com/Oliver96118">
+        <a href="[https://github.com/Oliver96118](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver96118&theme=algolia&layout=compact)">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver96118&theme=algolia&layout=compact" alt="jaypavasiya" />
         </a>
       </p>
