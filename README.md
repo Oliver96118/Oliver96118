@@ -24,11 +24,11 @@
 - [![Email](https://img.shields.io/badge/Email-mailto%3Arich.alpha444%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:rich.alpha444@gmail.com)
 
 ### 🤷‍♂️ What I can do
-- Chatbot and Virtual Assistants (experienced no-code chatbot builder)
-- NLP ( text analysis )
-- Computer Vision ( OpenCV, object detection, face recognition, image & video processing)
-- Generative AI
-- ML model ( Algorithmic Trading, Fraud Detection )
+- <b>Chatbot and Virtual Assistants</b> (experienced no-code chatbot builder)
+- <b>NLP</b> ( text analysis )
+- <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
+- <b>Generative AI</b>
+- <b>ML model</b> ( Algorithmic Trading, Fraud Detection )
 ### ⚔ TECHNOLOGY
 
 <table align="center">
