@@ -1,7 +1,10 @@
-<h1 align="center"><a href="https://t.me/softlight1012">
+<h1 align="center" style="color: blue; text-decoration: none;" 
+   onmouseover="this.style.textDecoration='underline'" 
+   onmouseout="this.style.textDecoration='none'"><a href="https://t.me/softlight1012">
     Hi, I'm Satoru Saito<br>
     <b>Data Scientist | AI Engineer</b><br />
-</a>
+</a>###👈 Click to contact
+    
 </h1>
 
 <div align="center"> 
