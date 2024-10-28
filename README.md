@@ -8,7 +8,6 @@
        <b>Data Scientist | AI Engineer</b>
       </a>
    </div> 
-   <span>👈 Click to contact</span>
 </div>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
