@@ -1,15 +1,14 @@
 
 <div style="display: flex;  flex-direction: row; justify-content: center; align-items: center;">
-   <div align="center" >
+   <h1 align="center" >
       <a href="https://t.me/softlight1012" style="color: blue; font-size:25px; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
        <b>Hi, I'm Satoru Saito<br></b>
        <b>Data Scientist | AI Engineer</b>
       </a>
-   </div> 
+   </h1> 
 </div>
-# ✨[Senior Blockchain Developer & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
 <br>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
