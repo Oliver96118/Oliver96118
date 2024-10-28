@@ -18,7 +18,7 @@
 
 ### 💎 ABOUT ME
 
-- **Looking to work on position:** Senior AI developer
+- **Open to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI, Coputer Vision), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Football, Swimming
 ### 🌐 Connect with me:  
@@ -193,13 +193,6 @@
     </td>
  </tr>
 </table>
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Oliver96118&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oliver96118&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
 <!-- activity graph heroku-app end -->
 <!--
 <p align="center">
