@@ -1,5 +1,5 @@
 
-<div><div align="center" style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;"><div align="center" >
 <a href="https://t.me/softlight1012" style="color: blue; text-decoration: none;" 
    onmouseover="this.style.textDecoration='underline'" 
    onmouseout="this.style.textDecoration='none'">
