@@ -1,11 +1,11 @@
-<div align="center">
+<div align="center" style="display: inline">
 <a href="https://t.me/softlight1012" style="color: blue; text-decoration: none;" 
    onmouseover="this.style.textDecoration='underline'" 
    onmouseout="this.style.textDecoration='none'">
     Hi, I'm Satoru Saito<br>
     <b>Data Scientist | AI Engineer</b>
-</a>👈 Click to contact
-</div>
+</a>
+</div>👈 Click to contact
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=Oliver96118&color=blue"></a>
