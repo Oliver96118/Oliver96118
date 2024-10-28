@@ -1,12 +1,14 @@
 
-<div style="display: flex; align-items: center;"><div align="center" >
-<a href="https://t.me/softlight1012" style="color: blue; text-decoration: none;" 
-   onmouseover="this.style.textDecoration='underline'" 
-   onmouseout="this.style.textDecoration='none'">
-    Hi, I'm Satoru Saito<br>
-    <b>Data Scientist | AI Engineer</b>
-</a>
-</div> <span>👈 Click to contact</span>
+<div style="display: flex; flex-direction: row; align-items: center;">
+   <div align="center" >
+      <a href="https://t.me/softlight1012" style="color: blue; text-decoration: none;" 
+      onmouseover="this.style.textDecoration='underline'" 
+      onmouseout="this.style.textDecoration='none'">
+       Hi, I'm Satoru Saito<br>
+       <b>Data Scientist | AI Engineer</b>
+      </a>
+   </div> 
+   <span>👈 Click to contact</span>
 </div>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
