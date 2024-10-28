@@ -1,10 +1,10 @@
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex;  flex-direction: row;  align-items: center;">
    <div align="center" >
       <a href="https://t.me/softlight1012" style="color: blue; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
-       Hi, I'm Satoru Saito<br>
+       <b>Hi, I'm Satoru Saito<br></b>
        <b>Data Scientist | AI Engineer</b>
       </a>
    </div> 
