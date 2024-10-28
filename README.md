@@ -9,7 +9,7 @@
       </a>
    </div> 
 </div>
-### [Data Scientist | AI Engineer](https://t.me/blockchainDeveloper_Ben)👈click here
+# ✨[Senior Blockchain Developer & Full Stack Developer](https://t.me/blockchainDeveloper_Ben)👈click here
 <br>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
