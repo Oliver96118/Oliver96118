@@ -9,6 +9,7 @@
       </a>
    </div> 
 </div>
+<br>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=Oliver96118&color=blue"></a>
