@@ -5,7 +5,7 @@
     Hi, I'm Satoru Saito<br>
     <b>Data Scientist | AI Engineer</b>
 </a>
-</div>👈 Click to contact
+</div> <span>👈 Click to contact</span>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=Oliver96118&color=blue"></a>
