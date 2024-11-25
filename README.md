@@ -4,8 +4,7 @@
       <a href="https://t.me/softlight1012" style="color: blue; font-size:25px; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
-       <b>Hi, I'm Satoru Saito, </b>
-       <b>Data Scientist | AI Engineer</b>
+       <b>AI Engineer | fullstack developer</b>
       </a> 👈 Click to contact
    </h1> 
 </div>
