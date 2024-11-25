@@ -12,11 +12,10 @@
 <br>
 <div align="center"> 
     <a href="http://github.com/Oliver96118?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=Oliver96118&color=blue"></a>
-    <a href="http://github.com/Oliver96118?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Oliver96118?color=4C1&logo=github"></a>
-    <!-- github -->
-    <a href="http://github.com/Oliver96118/Oliver96118" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Oliver96118/Oliver96118?label=Profile%20update&style=fflat-square"></a>
+    <img alt="Followers" src="https://komarev.com/ghpvc/?username=Polymath1108&color=blue"></a>
+    <a href="http://github.com/Polymath1108?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Polymath1108?color=4C1&logo=github"></a>
+
 </div>
 <br>
 
@@ -200,7 +199,7 @@
 <!-- activity graph heroku-app end -->
 <!--
 <p align="center">
-<a href="https://github.com/Oliver96118?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Oliver96118&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/Polymath1108?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Oliver96118&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
 </p>
 -->
 
@@ -210,16 +209,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Oliver96118](https://github-readme-stats-eight-theta.vercel.app/api?username=Oliver96118&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" target="_blank">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oliver96118&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <a href="https://github.com/Polymath1108](https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" target="_blank">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Oliver96118">
-          <img align="center" src="https://streak-stats.demolab.com?user=Oliver96118&theme=algolia" alt="Streak Stats" />
+        <a href="https://github.com/Polymath1108">
+          <img align="center" src="https://streak-stats.demolab.com?user=Polymath1108&theme=algolia" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -228,16 +227,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Oliver96118/Chatbot-builder">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Oliver96118&repo=Chatbot-builder&theme=algolia&show_owner=true" alt="Chatbot-builder" />
+        <a href="https://github.com/Polymath1108/Chatbot-builder">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Polymath1108&repo=Chatbot-builder&theme=algolia&show_owner=true" alt="Chatbot-builder" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
-        <a href="[https://github.com/Oliver96118](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver96118&theme=algolia&layout=compact)">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver96118&theme=algolia&layout=compact" alt="jaypavasiya" />
+        <a href="[https://github.com/Polymath1108](https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath1108&theme=algolia&layout=compact)">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath1108&theme=algolia&layout=compact" alt="jaypavasiya" />
         </a>
       </p>
     </td>
