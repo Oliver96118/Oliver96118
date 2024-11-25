@@ -4,7 +4,7 @@
       <a href="https://t.me/softlight1012" style="color: blue; font-size:25px; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
-       <b>AI Engineer | fullstack developer</b>
+       <b>AI Engineer | Fullstack Developer</b>
       </a> 👈 Click to contact
    </h1> 
 </div>
