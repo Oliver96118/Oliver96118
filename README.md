@@ -15,7 +15,6 @@
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=Polymath1108&color=blue"></a>
     <a href="http://github.com/Polymath1108?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/Polymath1108?color=4C1&logo=github"></a>
-
 </div>
 <br>
 
