@@ -249,7 +249,7 @@
      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
    </td> 
-   <td width="50%" align="center>
+   <td width="50%" align="center">
   <a href="https://github.com/GovindSingh9447">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath1108&text_color=FFFFFF&bg_color=070f2d&title_color=3caaf9&langs_count=15&layout=compact&hide_border=true" />
   </a>
