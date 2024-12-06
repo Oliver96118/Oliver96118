@@ -202,7 +202,7 @@
       <p align="center">
         <a href="https://github.com/Polymath1108](https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" target="_blank">
 <!--           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-           <img align="right" src="https://github-readme-stats.vercel.app/api?username=Polymath118&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+           <img align="right" src="https://github-readme-stats.vercel.app/api?username=Polymath1108&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
         </a>
       </p>
     </td>
