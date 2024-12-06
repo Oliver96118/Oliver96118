@@ -196,6 +196,13 @@
 
 ### ✨ PROJECTS AND DEV STUFF
 <table width="100%">
+   <tr>
+      <p align="center">
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
+   </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
