@@ -199,17 +199,17 @@
    <tr>
       <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=algolia&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
    </tr>
-  <tr>
+<!--   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Polymath1108](https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" target="_blank">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<!--            <img align="right" src="https://github-readme-stats.vercel.app/api?username=Polymath1108&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /> -->
+          <img align="right" src="https://github-readme-stats.vercel.app/api?username=Polymath1108&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
         </a>
       </p>
     </td>
@@ -221,7 +221,8 @@
         </a>
       </p>
     </td>
-  </tr>
+  </tr> 
+   
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
@@ -239,6 +240,25 @@
         </a>
       </p>
     </td>
+  </tr>-->
+  <tr>
+     <details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+
+<p align="center">
+  <a href="https://github.com/GovindSingh9447">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GovindSingh9447&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/GovindSingh9447">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
+<br>
   </tr>
 </table>
 
