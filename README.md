@@ -195,7 +195,7 @@
 -->
 
 ### ✨ PROJECTS AND DEV STUFF
-<table width="100%">
+<table width="100%" align="center">
    <tr>
       <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
