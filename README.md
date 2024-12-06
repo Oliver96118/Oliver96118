@@ -250,7 +250,7 @@
    </td> 
    <td width="50%" align="center">
      <a href="https://github.com/GovindSingh9447">
-       <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath1108&text_color=FFFFFF&bg_color=070f2d&title_color=3caaf9&langs_count=15&layout=donut&hide_border=true" />
+       <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polymath1108&text_color=FFFFFF&bg_color=070f2d&title_color=3caaf9&langs_count=15&layout=normal&hide_border=true" />
      </a>
   </td>
   </tr>
